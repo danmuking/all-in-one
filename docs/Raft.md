@@ -1,0 +1,12 @@
+相关概念
+Follower、Leader、Candidate
+Term
+选举过程
+日志同步
+安全性保证
+多数投票机制
+Leader只能提交自己term内的日志
+日志压缩
+成员变更
+单节点变更
+联合共识
