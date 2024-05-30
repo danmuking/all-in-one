@@ -1,6 +1,5 @@
 > 本文已收录于：[https://github.com/danmuking/all-in-one](https://github.com/danmuking/all-in-one)
 
-
 哈喽，大家哈，我是 **DanMu**。最近在在学习一些分布式的知识，在网上看了不少分布式的文章，但总觉得它们要么太过专业，看了等于没看，学了等于没学，要么就过于简化，看了还是等于没看，学了还是等于没学。想要找到一篇既易懂又深入的分布式文章确实不易。既然网络上的资源无法满足我的需求，我决定亲自下场，为大家带来这篇深入分析`Raft`分布式共识算法的文章。通过这篇文章，你将能够深入理解Raft的精髓，掌握其背后的原理和机制。拒绝“如会”，从我做起，Let's go。
 ![image.png](https://raw.githubusercontent.com/danmuking/image/main/3224e68ce8aa5fcc8c1ac901da1e94b5.png)
 ## 什么是分布式共识算法
