@@ -1,21 +1,22 @@
-name: syncToGitee
-'on':
+name: Sync to Gitee
+
+on:
   push:
-    branches:
-      - main
+    branches: [main]
+
+  workflow_dispatch:
+
 jobs:
-  repo-sync:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Mirror with force push (git push -f)
-        uses: Yikun/hub-mirror-action@master
+      - name: Sync to Gitee
+        uses: wearerequired/git-mirror-action@v1
+        env:
+          # 在 Settings->Secrets 配置 GITEE_PRIVATE_KEY
+          SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}
         with:
-          src: github/danmuking
-          dst: gitee/danmuking
-          dst_key: '${{ secrets.GITEE_PRIVATE_KEY }}'
-          dst_token: '${{ secrets.GITEE_TOKEN }}'
-          static_list: all-in-one
-          force_update: true
-          debug: true
-
-
+          # GitHub 源仓库地址
+          source-repo: git@github.com:danmuking/all-in-one.git
+          # Gitee 目标仓库地址
+          destination-repo: git@gitee.com:danmuking/all-in-one.git
