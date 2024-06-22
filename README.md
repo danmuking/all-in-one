@@ -20,7 +20,7 @@
 
 **如果想要快速搜索知识库中的内容，可以直接在公众号中发送你的问题：**
 
-![<video controls="" src="assert/2ebdaabe58760daa51435fa62bd24f4a.mp4" title="Title"></video>](assert/2ebdaabe58760daa51435fa62bd24f4a.gif)
+![video](./assert/2ebdaabe58760daa51435fa62bd24f4a.gif)
 > 生成回答可能需要一些时间，感谢你的耐心等待。
 
 推荐你通过在线阅读网站进行阅读，体验更好，速度更快！
