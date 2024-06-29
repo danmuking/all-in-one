@@ -3,7 +3,7 @@
     <img src="./assert/logo.png" width="50%">
 </div>
 
-[![Static Badge](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-green?style=for-the-badge&logo=googlechrome&logoColor=white&link=http%3A%2F%2F150.158.151.30%2F)](http://150.158.151.30/) [![Static Badge](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-DanMu%E7%9A%84%E4%BB%A3%E7%A0%81%E5%B0%8F%E7%AB%99-%2344cc11?style=for-the-badge)](#公众号) ![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%AD%90-%E7%AB%8B%E5%88%BB%E5%8A%A0%E5%85%A5-red?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/danmuking/backend-interview?style=for-the-badge)
+[![Static Badge](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-green?style=for-the-badge&logo=googlechrome&logoColor=white&link=http%3A%2F%2F150.158.151.30%2F)](https://danmu.online/) [![Static Badge](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-DanMu%E7%9A%84%E4%BB%A3%E7%A0%81%E5%B0%8F%E7%AB%99-%2344cc11?style=for-the-badge)](#公众号) [![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%AD%90-%E7%AB%8B%E5%88%BB%E5%8A%A0%E5%85%A5-red?style=for-the-badge)](#知识新球) ![GitHub Repo stars](https://img.shields.io/github/stars/danmuking/backend-interview?style=for-the-badge)
 
 # 这个知识库有什么特点
 
@@ -24,7 +24,7 @@
 > 生成回答可能需要一些时间，感谢你的耐心等待。
 
 推荐你通过在线阅读网站进行阅读，体验更好，速度更快！
-- [All In One/Danmu's Blog](https://danmu.online/)
+- [在线阅读](https://danmu.online/)
 
 # 学习路书（持续更新）
 面对一门新的知识，很多萌新不知道该从何处入手，也不知道有哪些优质的学习资源，因此在这个部分中，我总结了一些优质的学习资源，希望可以帮助萌新快速学习，减少花在资源搜索上的精力。
@@ -39,6 +39,10 @@
 - [String](docs/Java/基础/3.String.md)
 - [Java 异常体系](docs/Java/基础/4.异常.md)
 - [Java 中的泛型](docs/Java/基础/5.泛型.md)
+### Java 集合
+- [集合知识体系梳理](docs/Java/集合/1.知识体系梳理.md)
+- [ArrayList 源码详解](docs/Java/集合/2.ArrayList源码分析.md)
+- [HashMap 源码详解](docs/Java/集合/3.HashMap源码分析.md)
 
 > 我还在发育中~，给我点时间叭
 
@@ -51,6 +55,10 @@
 # 公众号
 
 ![alt text](assert/扫码_搜索联合传播样式-标准色版.png)
+
+# 知识星球
+如果你想加入我或者是咨询相关的问题欢迎加入我的星球
+![alt text](assert/c5e5f0f045cb4a8c5f69af1901b025b.jpg)
 
 # 特别鸣谢
 
